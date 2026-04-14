@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: viking-demo
+
+server:
+  port: 8080
+
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
